@@ -1,0 +1,152 @@
+[
+        {
+        "id":1,
+        "question": "A ………. is an electronic device that process data,converting it into information",
+        "answers":[
+            {"answer":"Computer","correct":true},
+            {"answer":"Processor","correct":false},
+            {"answer":"Case","correct":false},
+            {"answer":"Stylus","correct":false}
+        ]
+    },
+    {
+        "id":2,
+        "question": "Which of the following is are operating systems",
+        "answers":[
+            {"answer":"Windows","correct":false},
+            {"answer":"UNIX","correct":false},
+            {"answer":"Linux","correct":false},
+            {"answer":"All Of The Above","correct":true}
+        ]
+    },
+    {
+        "id":3,
+        "question": "Which among the following is not a security privacy risk",
+        "answers":[
+            {"answer":"Spam","correct":true},
+            {"answer":"Virus","correct":false},
+            {"answer":"Hacking","correct":false},
+            {"answer":"Phishing","correct":false}
+        ]
+    },
+    {
+        "id":4,
+        "question": "IC chips used in computers are usually made of",
+        "answers":[
+            {"answer":"Lead","correct":false},
+            {"answer":"Silicon","correct":true},
+            {"answer":"Chromium","correct":false},
+            {"answer":"Gold","correct":false}
+        ]
+    },
+    {
+        "id":5,
+        "question": "One Gigabyte is approximately equal is",
+        "answers":[
+            {"answer":"1000,000 bytes","correct":false},
+            {"answer":"1000,000,000 bytes","correct":true},
+            {"answer":"1000,000,000,000 bytes","correct":false},
+            {"answer":"None of these","correct":false}
+        ]
+    },
+    {
+        "id":6,
+        "question": "File extensions are used in order to ……….",
+        "answers":[
+            {"answer":"Name the file","correct":false},
+            {"answer":"Ensure the filename is not lost","correct":false},
+            {"answer":"identify the file","correct":false},
+            {"answer":"identify the file type","correct":true}
+        ]
+    },
+    {
+        "id":7,
+        "question": "bit stands for",
+        "answers":[
+            {"answer":"binary information term","correct":false},
+            {"answer":"binary digit","correct":true},
+            {"answer":"binary tree","correct":false},
+            {"answer":"bivariate theory","correct":false}
+        ]
+    },
+    {
+        "id":8,
+        "question": "How many bits are used in the data bus",
+        "answers":[
+            {"answer":"7","correct":false},
+            {"answer":"8","correct":false},
+            {"answer":"16","correct":true},
+            {"answer":"32","correct":false}
+        ]
+    },
+    {
+        "id":9,
+        "question": "Which supercomputer is developed by the Indian Scientists",
+        "answers":[
+            {"answer":"Param","correct":true},
+            {"answer":"Super 301","correct":false},
+            {"answer":"Compaq Presario","correct":false},
+            {"answer":"CRAY YMP","correct":false}
+        ]
+    },
+    {
+        "id":10,
+        "question": "In binary code, the number 7 is written as -",
+        "answers":[
+            {"answer":"110","correct":false},
+            {"answer":"101","correct":false},
+            {"answer":"100","correct":false},
+            {"answer":"111","correct":true}
+        ]
+    },
+    {
+        "id":11,
+        "question": "In which generation of computers, transistors were used",
+        "answers":[
+            {"answer":"First","correct":false},
+            {"answer":"Second","correct":true},
+            {"answer":"Third","correct":false},
+            {"answer":"Fourth","correct":false}
+        ]
+    },
+    {
+        "id":12,
+        "question": "The term 'Pentium' is related to-",
+        "answers":[
+            {"answer":"DVD","correct":false},
+            {"answer":"Hard Disk","correct":false},
+            {"answer":"Microprocessor","correct":true},
+            {"answer":"Mouse","correct":false}
+        ]
+    },
+    {
+        "id":13,
+        "question": "Which one of the following is not a linear data structure",
+        "answers":[
+            {"answer":"Binary Tree","correct":true},
+            {"answer":"Array","correct":false},
+            {"answer":"Queue","correct":false},
+            {"answer":"Stack","correct":false}
+        ]
+    },
+    {
+        "id":14,
+        "question": "Storage mapping is done by",
+        "answers":[
+            {"answer":"Linker","correct":false},
+            {"answer":"Compiler","correct":true},
+            {"answer":"Loader","correct":false},
+            {"answer":"Operating System","correct":false}
+        ]
+    },
+    {
+        "id":15,
+        "question": "WorldWide Web was proposed by",
+        "answers":[
+            {"answer":"Bill Gates","correct":false},
+            {"answer":"Bill Rogers","correct":false},
+            {"answer":"Tim Berners Lee","correct":true},
+            {"answer":"None Of Above","correct":false}
+        ]
+    }
+]
